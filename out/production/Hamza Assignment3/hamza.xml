@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="java.util.Stack"/>
+  </void>
+  <void method="add">
+   <object class="java.util.Stack"/>
+  </void>
+  <void method="add">
+   <object class="java.util.Stack"/>
+  </void>
+ </object>
+</java>
